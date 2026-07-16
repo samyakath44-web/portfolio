@@ -1,22 +1,13 @@
-# Hi, I'm Samya 👋
+# Hi, I'm Samya.
 
-## 🎓 About Me
-- 2nd Year Computer Science Engineering Student
-- Learning Python, SQL, Excel, Git & Web Development
-- Based in Bangalore, India
-- Building projects to prepare for software engineering internships
+Welcome to my GitHub!
 
-## 💻 Skills
-- C
-- Python (Learning)
-- Excel (Learning)
-- SQL (Learning)
-- HTML & CSS (Learning)
+I'm a second-year Computer Science Engineering student who enjoys learning by building. Instead of just watching tutorials, I challenge myself to turn every new concept into a real project.
 
-## 🎯 Current Goals
-- Build 20+ practical projects
-- Strengthen problem-solving skills
-- Secure a software engineering internship
+This GitHub is where I document that journey—from beginner experiments to projects that solve real-world problems.
 
-## 📂 Projects
-Projects will be added here as I build them.
+I'm currently exploring Python, SQL, Excel, Git, and web development, and I'm always looking for opportunities to learn something new.
+
+There's still a long way to go, but every project here is one step forward.
+
+Thanks for visiting!
