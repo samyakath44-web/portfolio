@@ -1,13 +1,31 @@
-# Hi, I'm Samya.
+# Hi, I'm Samya 👋
 
-Welcome to my GitHub!
+I'm a second-year Computer Science Engineering student who enjoys learning by building.
 
-I'm a second-year Computer Science Engineering student who enjoys learning by building. Instead of just watching tutorials, I challenge myself to turn every new concept into a real project.
+Rather than only completing tutorials, I like turning every new concept into a real project. This GitHub is where I document that journey—from beginner experiments to projects that solve real-world problems.
 
-This GitHub is where I document that journey—from beginner experiments to projects that solve real-world problems.
+---
 
-I'm currently exploring Python, SQL, Excel, Git, and web development, and I'm always looking for opportunities to learn something new.
+## Currently Learning
 
-There's still a long way to go, but every project here is one step forward.
+- Python
+- SQL
+- Excel
+- HTML & CSS
+- Git & GitHub
 
-Thanks for visiting!
+---
+
+## Current Goal
+
+I'm working towards becoming a software engineer by consistently building projects, improving my problem-solving skills, and learning new technologies.
+
+---
+
+## Projects
+
+Projects will be added here as I build them.
+
+---
+
+*"Every expert was once a beginner who refused to quit."*
